@@ -28,6 +28,8 @@ Para desarrollar Nixdi estamos usando:
 
 [Rocket](https://rocket.rs/)
 
+[SurrealDB](https://surrealdb.com/)
+
 El objetivo es que Nixdi sea accesible desde el mayor número de plataformas posible sin dificultar ni entorpecer al desarrollo.
 
 
