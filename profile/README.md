@@ -33,9 +33,7 @@ El objetivo es que Nixdi sea accesible desde el mayor número de plataformas pos
 
 El equipo
 ---------
-Nosotros somos estudiantes de Ingeniería Informática en la Universidad de Málaga ([UMA](https://www.uma.es/)).
-
-Este proyecto comenzó siendo una práctica para la asignatura de Introducción a la Ingeniería del Software.
+Este proyecto comenzó siendo una práctica para la asignatura de Introducción a la Ingeniería del Software en la Universidad de Málaga ([UMA](https://www.uma.es/)).
 
 Sin embargo, ya no contiene nada del código original. Ni siquiera se usa la misma tecnología.
 Anteriormente apostamos por Java y Spring, pero en favor de aprender cosas nuevas, y apoyar un cambio cada vez más presente hacia código más seguro, decidimos usar Rust.
