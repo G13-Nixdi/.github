@@ -44,7 +44,9 @@ Anteriormente apostamos por Java y Spring, pero en favor de aprender cosas nueva
 
 ### ¿Quién continúa?
 `Serafín López Molina (sfmolina)          | Responsable principal del proyecto`
+
 `Jose María Nogueras Navarro (jomanone2)  | Colaborador`
+
 `Marcos Barranquero Morales (marcos1703)  | Red Team`
 
 ### Originalmente eramos
