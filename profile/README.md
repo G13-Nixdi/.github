@@ -42,18 +42,19 @@ Anteriormente apostamos por Java y Spring, pero en favor de aprender cosas nueva
 
 
 
+### ¿Quién continúa?
+`Serafín López Molina (sfmolina)          | Responsable principal del proyecto`
+`Jose María Nogueras Navarro (jomanone2)  | Colaborador`
+`Marcos Barranquero Morales (marcos1703)  | Red Team`
+
 ### Originalmente eramos
 
-`Serafín López Molina (sfmolina)`
-
-`Noelia Carrasco Gonzalez (NoeliaCarGon)`
-
-`Daniel Sánchez Triviño (dstUMA)`
-
-`Jose María Nogueras Navarro (jomanone)`
-
-`Marcos Barranquero Morales (marcos1703)`
-
-`Manuel Valdivielso Rodríguez (17Manu11)`
-
-`David Díaz Gil (DavidDG12)`
+```
+Serafín López Molina (sfmolina),
+Noelia Carrasco Gonzalez (NoeliaCarGon),
+Daniel Sánchez Triviño (dstUMA),
+Jose María Nogueras Navarro (jomanone),
+Marcos Barranquero Morales (marcos1703),
+Manuel Valdivielso Rodríguez (17Manu11),
+David Díaz Gil (DavidDG12)
+```
