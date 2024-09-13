@@ -31,7 +31,7 @@ Para desarrollar Nixdi estamos usando:
 El objetivo es que Nixdi sea accesible desde el mayor número de plataformas posible sin dificultar ni entorpecer al desarrollo.
 
 
-El equipo
+El equipo (al principio)
 ---------
 Este proyecto comenzó siendo una práctica para la asignatura de Introducción a la Ingeniería del Software en la Universidad de Málaga ([UMA](https://www.uma.es/)).
 
@@ -40,7 +40,7 @@ Anteriormente apostamos por Java y Spring, pero en favor de aprender cosas nueva
 
 
 
-#### Originalmente eramos
+### Originalmente eramos
 
 `Serafín López Molina (sfmolina)`
 
